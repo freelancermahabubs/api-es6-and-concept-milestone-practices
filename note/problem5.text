@@ -1,0 +1,8 @@
+// problem-5 
+Arry summary :
+
+An array is a data structure used in computer programming to store a collection of values, which can be of the same or different types. It is a container that can hold multiple values, each identified by an index or a key. Arrays are commonly used to organize and manipulate large sets of data efficiently.
+
+In most programming languages, arrays have a fixed size, meaning that the number of elements in the array is determined when the array is created, and cannot be changed during runtime. However, some languages have dynamic arrays that can grow or shrink as needed.
+
+Arrays can be one-dimensional, two-dimensional, or multi-dimensional, depending on the number of indices needed to access their elements. They are a fundamental concept in computer science and are used extensively in various algorithms and data structures.
